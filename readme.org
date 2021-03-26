@@ -1,0 +1,6 @@
+#+TITLE: Readme
+
+This package is inspired by [[https://github.com/zzamboni/ox-leanpub][ox-leanpub]], which exports your Org file to files in format required by [[https://leanpub.com][leanpub]].
+But I want to use [[https://gitbook.com][gitbook]] instead, so I write this package to export my Org file to GitBook format.
+
+Note that the package is in early stage. I will write more when the package is more useful.
